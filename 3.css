@@ -1,1 +1,10 @@
-This is css file in main branch
+:root {
+  --growth-factor: exp(1); /* e^1 ≈ 2.718 */
+}
+
+.box {
+  width: calc(50px * exp(2)); /* e^2 ≈ 7.389 → width ≈ 369.45px */
+  height: calc(20px * exp(-1)); /* e^-1 ≈ 0.367 → height ≈ 7.34px */
+  background-color: lightblue;
+}
+
