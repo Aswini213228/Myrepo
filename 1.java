@@ -10,3 +10,5 @@ public class MultiplyTwoNumbers {
         System.out.println("The product is: " + product);
   }
 }
+
+The output is 3.0
