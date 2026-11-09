@@ -1,5 +1,3 @@
-exp(number)
-=======
 :root {
   --growth-factor: exp(1); /* e^1 ≈ 2.718 */
 }
