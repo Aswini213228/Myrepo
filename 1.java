@@ -1,4 +1,4 @@
-##Java code..
+##Java code.. Multiplying 2 Numbers
     public class MultiplyTwoNumbers {
 
     public static void main(String[] args) {
