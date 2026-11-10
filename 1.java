@@ -1,4 +1,4 @@
-##Java code
+##Java code..
     public class MultiplyTwoNumbers {
 
     public static void main(String[] args) {
