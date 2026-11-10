@@ -1,4 +1,5 @@
-public class MultiplyTwoNumbers {
+##Java code
+    public class MultiplyTwoNumbers {
 
     public static void main(String[] args) {
 
